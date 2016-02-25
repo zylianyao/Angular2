@@ -1,0 +1,3 @@
+tsconfig.json  TypeScript编译配置
+typings.json   使浏览器支持最新的特性
+package.json   增加需要的lib包
