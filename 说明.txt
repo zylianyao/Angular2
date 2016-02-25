@@ -1,3 +1,8 @@
 tsconfig.json  TypeScript编译配置
 typings.json   使浏览器支持最新的特性
 package.json   增加需要的lib包
+
+1.安装nodejs
+2.执行  安装.bat
+3.执行  运行.bat
+以后每次只需执行 运行.bat 即可
